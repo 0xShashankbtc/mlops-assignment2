@@ -39,7 +39,7 @@ Open `a2-g25ait2100-mlops.ipynb` in Kaggle or Jupyter and run all cells top to b
 Trained on **Kaggle Notebooks** using free GPU T4 x2 accelerator.
 - Internet enabled for package installation and API access
 - API tokens stored securely via Kaggle Secrets (Add-ons → Secrets)
-- Kaggle Notebook: https://www.kaggle.com/g25ait2100/a2-g25ait2100-mlops
+- Kaggle Notebook: [https://www.kaggle.com/g25ait2100/a2-g25ait2100-mlops](https://www.kaggle.com/code/shashankjangid/a2-g25ait2100-mlops)
 
 ---
 

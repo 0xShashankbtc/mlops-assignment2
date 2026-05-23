@@ -55,6 +55,6 @@ Trained on **Kaggle Notebooks** using free GPU T4 x2 accelerator.
 
 ## Links
 
-- **Kaggle Notebook:** https://www.kaggle.com/g25ait2100/a2-g25ait2100-mlops
+- **Kaggle Notebook:** [https://www.kaggle.com/g25ait2100/a2-g25ait2100-mlops](https://www.kaggle.com/code/shashankjangid/a2-g25ait2100-mlops)
 - **Hugging Face Model:** https://huggingface.co/G25AIT2100/distilbert
 - **W&B Dashboard:** https://wandb.ai/g25ait2100-iit-jodhpur/mlops-assignment2
